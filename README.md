@@ -1,5 +1,8 @@
-# Leveraging Machine Learning 
-to Generate Effective UX Personas 
-for Low-Cost Digital Production![image](https://github.com/user-attachments/assets/839adbc4-af4f-4e42-a938-9aad2e02924e)
+# Leveraging Machine Learning to Generate Effective UX Personas for Low-Cost Digital Production
 
-A UX Persona prediction and generation machine learning python program
+This repository is a result of a research conducted to evaluate the possibility of using Machine Learning to reduce the human in producing UX Personas but also help reduce the cost of UX research for low cost digital production environments.
+
+---
+
+
+
