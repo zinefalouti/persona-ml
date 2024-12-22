@@ -1,0 +1,901 @@
+Education,Occupation,Proficiency,Level of Frustration,Curiosity,Tech Savviness,Tech Flexibility,Level of Intuition,Pain Points,Functional Need,Emotional Need,Product Type
+Postdoctoral Studies,Business Analyst,3,4,8,6,6,2,8,2,2,CRM Tool
+Associate's Degree,UX/UI Designer,10,8,4,3,6,2,9,5,7,Web Application
+Postdoctoral Studies,Nurse,2,7,4,6,5,6,1,2,10,Marketing Automation Tool
+Vocational Training,Gardener,1,6,5,4,5,4,2,8,4,Streaming Service
+Associate Degree,Graphic Designer,4,5,10,0,6,4,2,0,6,Survey Platform
+Doctoral Degree,Lawyer,0,3,2,5,3,1,9,4,9,E-commerce
+Associate's Degree,Customer Support,8,10,9,2,1,2,6,2,8,Cybersecurity Tool
+Associate Degree,IT Consultant,6,7,6,0,0,6,7,2,2,E-learning Tool
+Doctoral Degree,Dentist,1,10,8,0,3,6,1,7,8,CRM Tool
+Postdoctoral Studies,Freelance Designer,5,4,6,6,3,7,0,2,9,Video Editing Software
+PhD,Scientist,1,7,9,0,0,2,1,10,1,Cybersecurity Tool
+Postdoctoral Studies,Civil Engineer,8,0,5,5,0,4,2,9,10,Cybersecurity Tool
+Graduate Diploma,Social Media Manager,10,3,2,3,6,2,7,10,6,Remote Work Tool
+Trade School,Freelance Designer,3,6,3,5,6,8,10,8,3,Design Software
+Self-Taught,Waiter,5,3,4,6,0,3,6,10,7,E-commerce
+Vocational Training,Artist,4,4,4,5,0,8,2,7,3,Photo Editing Software
+Trade School,Waiter,6,4,0,3,2,6,0,7,10,E-learning Tool
+Associate's Degree,UX/UI Designer,6,2,7,0,4,3,10,0,3,Mobile App
+High School,Retail Worker,10,10,9,0,0,5,0,6,9,Mobile App
+Vocational Training,Event Planner,3,0,5,5,5,6,2,10,10,HR Management Software
+Bachelor's Degree,Software Engineer,6,4,2,10,1,4,8,1,6,SaaS Platform
+Vocational Training,UX/UI Designer,1,1,10,5,3,2,3,1,8,Web Application
+Trade School,Data Scientist,4,0,6,7,1,0,1,7,3,Data Analytics Tool
+Bachelor's Degree,Designer,1,3,0,2,1,4,7,6,5,Artificial Intelligence Tool
+Postdoctoral Studies,Freelance Designer,1,0,6,1,4,7,9,9,0,Video Editing Software
+MBA,Chef,5,0,9,5,6,3,4,1,4,SaaS Platform
+Bachelor's Degree,Software Engineer,1,8,6,8,6,1,9,4,0,Artificial Intelligence Tool
+Self-Taught,Engineer,10,6,3,4,8,2,10,1,5,Cybersecurity Tool
+Self-Taught,Project Manager,6,4,3,5,1,5,4,8,1,Cloud Storage
+Bachelor's Degree,Software Engineer,2,0,4,7,5,5,3,2,1,SaaS Platform
+Trade School,Gardener,2,3,4,6,5,2,3,6,9,E-learning Tool
+Associate Degree,Marketer,2,7,6,1,0,1,7,10,3,Finance & Accounting Software
+High School,Retail Worker,3,7,1,2,3,3,1,3,8,E-commerce
+Certification,Nurse,6,8,9,5,2,1,6,9,6,Survey Platform
+Bachelor's Degree,Product Manager,10,9,9,1,8,0,0,9,0,E-commerce
+Trade School,Civil Engineer,4,5,10,6,5,1,9,2,5,Real Estate Software
+Doctoral Degree,Graphic Designer,6,2,8,3,2,5,7,0,3,Gaming Platform
+Certification,Civil Engineer,0,6,5,4,6,6,5,4,2,Gaming Platform
+Bachelor's Degree,Software Engineer,10,1,9,7,1,5,0,1,4,SaaS Platform
+Associate's Degree,Web Developer,8,8,4,10,6,0,2,3,2,Learning Management System
+Associate Degree,Product Manager,3,0,7,3,10,0,9,10,6,Augmented Reality App
+Associate's Degree,Customer Support,5,0,2,6,2,2,10,1,7,Learning Management System
+Certification,Engineer,8,0,10,2,7,4,2,10,6,SaaS Platform
+MBA,Artist,0,0,0,0,3,10,7,9,5,Communication Tool
+Master's Degree,Engineer,5,7,0,6,9,5,1,0,4,Cloud Storage
+Vocational Training,Physician,2,7,4,4,5,3,0,3,7,Mobile App
+Self-Taught,Public Relations Specialist,8,10,2,0,2,0,5,8,3,E-learning Tool
+Master's Degree,Engineer,10,3,9,0,8,1,5,5,4,Food Delivery App
+High School,Mechanic,4,3,4,4,1,4,0,5,8,Finance & Accounting Software
+High School,Construction Worker,10,0,1,6,4,1,7,3,0,Communication Tool
+Associate Degree,Photographer,3,2,1,3,2,1,5,0,0,Business Intelligence Software
+Professional Training,Civil Engineer,2,4,3,5,4,5,7,4,6,IoT Platform
+Certification,Project Manager,2,6,1,5,2,4,0,5,3,Mobile App
+Postdoctoral Studies,Waiter,6,0,1,6,0,2,2,8,7,Travel App
+Master's Degree,Pharmacist,4,6,9,3,6,6,6,5,3,Remote Work Tool
+Graduate Diploma,Tech CEO,6,5,8,4,9,5,1,5,4,Enterprise Software
+Master's Degree,Lawyer,2,3,7,5,3,3,10,1,8,Real Estate Software
+High School,Mechanic,5,9,7,1,4,2,0,5,1,CRM Tool
+Associate's Degree,Nurse,0,0,7,2,5,5,7,5,10,Blockchain Platform
+Doctoral Degree,University Professor,0,7,0,6,5,4,3,8,1,CRM Tool
+Certification,Product Manager,8,5,8,5,9,5,5,6,7,Photo Editing Software
+Associate Degree,Copywriter,9,3,10,3,6,3,4,7,3,Food Delivery App
+Associate Degree,UX/UI Designer,5,7,10,6,1,2,9,5,0,Design Software
+Bachelor's Degree,Product Manager,8,8,10,4,8,6,5,10,1,Mobile App
+PhD,Scientist,4,3,5,4,2,0,7,2,10,Virtual Reality Tool
+MBA,Freelance Designer,3,6,1,4,6,8,0,6,9,Design Software
+Doctoral Degree,Social Media Manager,8,0,10,6,3,0,2,9,6,Travel App
+Trade School,Pharmacist,3,6,3,6,6,2,10,5,3,Music Production Software
+Graduate Diploma,Civil Engineer,8,10,1,4,5,3,0,0,7,Augmented Reality App
+No Formal Education,Construction Worker,2,9,9,2,0,3,7,1,10,Communication Tool
+Graduate Diploma,Event Planner,2,0,10,3,0,4,5,5,7,Photo Editing Software
+Postdoctoral Studies,Financial Analyst,3,5,0,5,3,6,4,9,9,E-commerce
+High School,Gardener,6,4,2,2,3,3,0,6,3,Enterprise Software
+Trade School,Project Manager,5,5,2,5,2,4,6,8,4,Photo Editing Software
+PhD,Engineer,5,6,6,0,8,1,6,7,5,Remote Work Tool
+Associate Degree,Freelance Designer,10,4,4,4,4,7,0,9,8,Design Software
+Graduate Diploma,Public Speaker,2,2,10,6,6,0,10,3,4,CRM Tool
+High School,Retail Worker,9,2,8,5,6,1,9,7,7,Mobile App
+PhD,Scientist,8,4,5,2,5,6,10,10,1,Mobile App
+Vocational Training,HR Manager,0,9,6,0,0,3,7,5,8,Educational Platform
+Postdoctoral Studies,Nurse,6,5,9,4,0,5,3,6,4,Streaming Service
+Professional Training,Unemployed,1,3,4,3,6,4,0,4,3,Music Production Software
+Professional Training,Investment Banker,1,6,7,1,0,3,0,0,7,Streaming Service
+Doctoral Degree,Business Analyst,3,5,9,2,2,4,0,10,6,Augmented Reality App
+PhD,Scientist,4,8,3,1,1,0,4,7,4,Food Delivery App
+Master's Degree,University Professor,5,10,5,5,2,4,1,5,6,E-learning Tool
+Vocational Training,Writer,10,1,8,2,1,4,5,10,7,Cloud Storage
+Trade School,Investment Banker,7,0,8,6,5,5,0,3,1,Collaboration Tool
+Professional Training,IT Consultant,3,5,1,2,5,3,9,2,5,IoT Platform
+Self-Taught,Architect,8,8,1,2,3,6,4,3,2,Food Delivery App
+Professional Training,Lawyer,3,8,6,4,5,6,7,8,0,Augmented Reality App
+Bachelor's Degree,Architect,1,2,1,1,3,6,4,3,2,Remote Work Tool
+High School,Sales Agent,1,3,6,5,4,6,8,7,6,Project Management Tool
+Certification,Graphic Designer,4,9,4,2,6,4,5,8,3,Streaming Service
+No Formal Education,Waiter,0,5,2,6,2,4,6,4,3,Mobile App
+MBA,Social Media Manager,9,9,10,3,1,2,5,4,3,Food Delivery App
+Professional Training,Software Engineer,0,1,9,7,6,4,1,1,6,SaaS Platform
+No Formal Education,Sales Agent,0,5,2,4,4,2,1,10,3,Enterprise Software
+Doctoral Degree,UX/UI Designer,6,5,2,1,6,3,8,10,1,Web Application
+Doctoral Degree,Event Planner,4,0,4,6,5,3,7,9,0,Music Production Software
+MBA,Photographer,8,5,0,3,6,6,1,9,10,HR Management Software
+PhD,Engineer,2,2,5,5,7,1,9,2,10,Remote Work Tool
+Associate's Degree,Web Developer,7,5,9,7,3,6,9,7,1,Collaboration Tool
+MBA,Mechanic,1,2,1,2,5,1,10,9,8,Streaming Service
+Master's Degree,Scientist,10,8,9,4,5,3,3,8,2,Artificial Intelligence Tool
+Bachelor's Degree,Teacher,3,2,8,4,2,9,2,2,1,Travel App
+High School,Sales Agent,7,5,1,6,3,2,0,5,4,Marketing Automation Tool
+Master's Degree,Engineer,4,8,2,5,9,6,5,7,6,Travel App
+Associate's Degree,Nurse,10,9,1,3,1,4,0,4,6,Communication Tool
+Certification,Construction Manager,6,6,8,1,0,1,8,9,8,Augmented Reality App
+Postdoctoral Studies,IT Consultant,5,9,9,1,4,4,5,3,4,Travel App
+Certification,Teacher,1,8,7,6,5,8,1,1,4,Educational Platform
+Self-Taught,Editor,7,6,4,4,2,3,5,1,3,CRM Tool
+Vocational Training,Copywriter,0,4,10,1,1,4,3,3,7,Marketing Automation Tool
+Professional Training,Gardener,8,5,8,0,2,2,10,6,4,Design Software
+Vocational Training,Artist,5,7,3,2,6,8,2,3,3,HR Management Software
+Bachelor's Degree,Product Manager,1,2,2,5,10,2,1,4,1,Finance & Accounting Software
+Certification,Waiter,7,3,8,6,1,4,10,2,1,Streaming Service
+Associate Degree,Unemployed,9,7,3,4,6,0,10,7,10,Remote Work Tool
+Self-Taught,IT Consultant,5,10,9,2,4,0,6,8,5,Mobile App
+Self-Taught,University Professor,1,4,0,4,4,1,6,5,4,E-learning Tool
+PhD,Researcher,10,3,0,4,0,3,2,4,3,Augmented Reality App
+Professional Training,Realtor,0,5,3,5,6,0,5,3,7,Productivity Tool
+Bachelor's Degree,Software Engineer,1,8,9,7,1,0,9,1,0,SaaS Platform
+Associate's Degree,Web Developer,9,6,1,8,6,3,9,9,4,Design Software
+Associate's Degree,UX/UI Designer,8,1,10,3,1,3,7,5,5,Design Software
+Postdoctoral Studies,Social Media Manager,0,4,3,1,0,5,1,2,5,Photo Editing Software
+Associate's Degree,Photographer,7,3,10,0,4,6,8,9,0,Communication Tool
+High School,Mechanic,4,8,3,6,5,2,9,9,1,Business Intelligence Software
+MBA,Gardener,2,1,7,6,5,2,10,10,6,Cloud Storage
+Master's Degree,University Professor,7,4,9,2,0,6,6,10,3,Educational Platform
+High School,Gardener,7,2,3,4,0,4,1,9,8,E-learning Tool
+Graduate Diploma,Mechanic,5,7,7,1,4,5,3,8,9,Personal Finance Tool
+Master's Degree,Lawyer,1,3,8,5,1,0,2,0,5,Collaboration Tool
+Self-Taught,Editor,6,4,7,3,3,5,8,9,0,Data Analytics Tool
+High School,Gardener,10,9,6,5,3,3,4,3,4,Augmented Reality App
+Doctoral Degree,Financial Analyst,9,7,8,5,5,6,7,7,3,CRM Tool
+PhD,Engineer,5,10,10,6,7,2,8,2,7,Collaboration Tool
+Master's Degree,Lawyer,2,6,1,1,1,2,9,5,5,Blockchain Platform
+High School,Gardener,6,2,0,4,4,3,5,1,9,Mobile App
+MBA,Financial Analyst,10,2,0,6,5,5,6,6,2,Blockchain Platform
+Trade School,Construction Manager,3,10,7,2,4,3,3,10,9,Photo Editing Software
+Trade School,Gardener,3,6,10,3,4,2,8,8,0,HR Management Software
+Trade School,Public Speaker,6,9,7,1,3,2,10,1,8,Business Intelligence Software
+MBA,Engineer,10,5,6,6,8,6,5,10,4,Streaming Service
+PhD,Researcher,5,0,9,0,4,4,5,3,2,Enterprise Software
+Vocational Training,Graphic Designer,10,3,8,5,3,5,6,3,0,Enterprise Software
+High School,Sales Agent,10,4,1,0,1,5,7,7,10,Travel App
+Master's Degree,Engineer,10,5,8,1,10,0,3,9,2,Video Editing Software
+Professional Training,Civil Engineer,10,9,0,4,3,6,8,9,6,Educational Platform
+Master's Degree,University Professor,5,10,0,4,5,5,9,8,0,Educational Platform
+Vocational Training,Editor,1,8,5,6,0,0,10,9,0,Survey Platform
+No Formal Education,Waiter,9,1,0,5,3,0,10,9,9,Virtual Reality Tool
+Associate Degree,Mechanic,2,1,4,4,4,5,10,10,8,Augmented Reality App
+Master's Degree,Lawyer,7,5,1,3,2,6,8,9,0,Mobile App
+Certification,Investment Banker,4,5,7,0,0,3,7,1,2,HR Management Software
+Master's Degree,Scientist,0,7,8,5,0,5,1,9,3,Mobile App
+No Formal Education,Gardener,6,10,9,2,3,3,2,7,4,Food Delivery App
+PhD,University Professor,2,6,9,6,4,6,10,3,3,Educational Platform
+Bachelor's Degree,Data Scientist,7,7,4,10,6,4,5,1,5,Data Analytics Tool
+Associate Degree,Pharmacist,0,10,7,1,0,0,8,0,10,Enterprise Software
+Certification,Gardener,0,2,7,4,5,0,4,3,8,Web Application
+Vocational Training,Engineer,2,2,0,5,10,0,1,5,6,Travel App
+No Formal Education,Construction Worker,6,0,7,0,0,5,3,7,2,Communication Tool
+Associate Degree,Business Analyst,3,4,4,3,1,3,7,9,2,Learning Management System
+PhD,University Professor,2,5,6,5,0,4,8,2,1,CRM Tool
+Trade School,Financial Analyst,2,9,0,2,1,4,9,6,9,CRM Tool
+Professional Training,Project Manager,3,2,10,4,3,0,5,8,0,Blockchain Platform
+Associate's Degree,Web Developer,2,10,9,10,5,2,1,5,6,Video Editing Software
+High School,Construction Worker,5,2,5,3,5,4,10,9,3,Project Management Tool
+Certification,University Professor,10,2,1,4,5,3,6,6,7,E-learning Tool
+PhD,Scientist,6,6,7,3,2,1,5,5,3,Finance & Accounting Software
+Vocational Training,Business Analyst,4,7,4,6,3,1,8,10,2,Virtual Reality Tool
+Bachelor's Degree,Software Engineer,5,4,5,9,1,3,7,8,5,Enterprise Software
+Trade School,HR Manager,1,10,2,5,5,5,6,0,7,Video Editing Software
+Vocational Training,Physician,2,7,4,0,3,5,1,3,9,Augmented Reality App
+Associate's Degree,UX/UI Designer,3,9,4,0,3,1,7,7,9,Mobile App
+High School,Construction Worker,8,8,1,4,2,5,1,10,10,Project Management Tool
+Graduate Diploma,Public Speaker,1,8,5,6,1,2,10,7,7,Gaming Platform
+Professional Training,Tech CEO,0,9,2,0,8,6,7,0,7,Business Intelligence Software
+Professional Training,Tourism Manager,1,1,6,2,5,3,4,6,6,CRM Tool
+Trade School,Tech CEO,2,0,8,2,8,1,10,9,4,Business Intelligence Software
+Trade School,Civil Engineer,10,1,5,4,0,5,2,0,8,Mobile App
+Postdoctoral Studies,Freelance Designer,3,8,5,4,6,8,6,8,6,Design Software
+Associate Degree,University Professor,7,10,3,3,3,0,1,9,4,CRM Tool
+PhD,Scientist,2,7,5,0,4,4,9,10,9,Productivity Tool
+No Formal Education,Gardener,5,2,4,5,4,5,5,0,9,Augmented Reality App
+Master's Degree,Scientist,9,2,6,5,6,6,9,0,9,Business Intelligence Software
+Postdoctoral Studies,Retail Worker,6,4,0,5,4,0,5,6,5,Mobile App
+Vocational Training,Writer,8,8,7,4,2,0,10,1,6,Health & Fitness App
+Postdoctoral Studies,Sales Agent,6,3,10,4,4,1,1,7,6,Virtual Reality Tool
+Self-Taught,Financial Analyst,8,0,10,2,0,1,7,10,10,Cybersecurity Tool
+Graduate Diploma,Editor,6,8,6,5,2,2,3,8,4,Video Editing Software
+Postdoctoral Studies,Financial Analyst,3,5,10,0,4,1,6,9,1,Web Application
+Self-Taught,Physician,1,10,8,3,4,3,7,5,3,Survey Platform
+Self-Taught,Accountant,0,1,7,1,6,4,8,6,8,Cybersecurity Tool
+Graduate Diploma,Gardener,10,4,6,3,3,6,0,10,8,HR Management Software
+High School,Gardener,0,3,0,4,6,0,3,4,0,Music Production Software
+Postdoctoral Studies,Graphic Designer,0,4,3,2,1,2,1,1,6,Travel App
+Master's Degree,Lawyer,9,2,7,4,6,2,3,4,6,Collaboration Tool
+MBA,Architect,6,6,7,1,0,0,10,6,2,Photo Editing Software
+Graduate Diploma,Data Scientist,7,7,3,8,6,5,9,6,7,Business Intelligence Software
+Postdoctoral Studies,Software Engineer,8,1,2,8,1,5,0,5,1,SaaS Platform
+Certification,Freelance Designer,5,5,4,5,4,8,7,8,4,Video Editing Software
+No Formal Education,Sales Agent,10,1,0,5,3,0,9,0,3,Blockchain Platform
+No Formal Education,Construction Worker,6,7,10,1,0,5,1,6,6,Communication Tool
+High School,Construction Worker,1,6,3,3,6,1,8,10,6,Communication Tool
+Bachelor's Degree,Data Scientist,4,7,5,8,1,0,3,4,8,Artificial Intelligence Tool
+Graduate Diploma,Editor,6,8,5,5,4,5,4,3,7,Web Application
+Bachelor's Degree,Teacher,10,4,10,3,2,9,7,3,1,Customer Feedback Tool
+Self-Taught,Architect,3,4,1,6,6,1,10,1,0,Health & Fitness App
+MBA,Dentist,5,3,10,6,6,1,3,10,3,Food Delivery App
+Certification,Sales Agent,6,7,5,1,6,4,1,5,5,Design Software
+Certification,IT Consultant,5,2,0,4,3,2,9,1,10,E-commerce
+Master's Degree,Engineer,2,9,1,2,10,3,8,1,3,Blockchain Platform
+Bachelor's Degree,Teacher,7,5,0,5,2,10,6,4,0,Blockchain Platform
+PhD,Researcher,9,8,1,0,3,5,1,4,7,Cloud Storage
+Professional Training,Tech CEO,4,4,4,3,8,4,3,0,8,Project Management Tool
+Self-Taught,Physician,2,9,3,4,0,2,2,7,10,Collaboration Tool
+Associate's Degree,Nurse,6,7,7,2,4,6,6,3,4,Educational Platform
+Master's Degree,Pharmacist,0,3,3,5,2,2,10,3,4,Marketing Automation Tool
+Doctoral Degree,Nurse,0,8,3,0,3,6,8,4,10,Photo Editing Software
+High School,Sales Agent,10,5,10,0,2,3,6,1,7,Learning Management System
+Self-Taught,Graphic Designer,2,5,9,3,2,4,3,4,2,IoT Platform
+PhD,University Professor,1,7,1,6,0,5,6,8,3,E-learning Tool
+No Formal Education,Construction Worker,9,7,10,2,4,2,1,3,3,Project Management Tool
+Postdoctoral Studies,Tech CEO,1,9,7,4,8,4,10,4,10,CRM Tool
+Vocational Training,Writer,3,0,8,1,4,4,6,6,4,Streaming Service
+No Formal Education,Waiter,6,1,3,6,5,3,2,3,0,Gaming Platform
+Vocational Training,Gardener,8,7,9,0,4,0,9,5,4,Data Analytics Tool
+Graduate Diploma,Project Manager,8,10,1,2,0,5,7,8,1,Artificial Intelligence Tool
+Vocational Training,Editor,6,7,1,2,6,0,10,0,9,SaaS Platform
+Vocational Training,Construction Manager,3,8,2,2,2,0,4,7,0,Business Intelligence Software
+Trade School,Copywriter,4,2,9,4,1,5,0,5,3,Music Production Software
+No Formal Education,Waiter,2,1,9,2,3,4,7,8,3,Music Production Software
+Master's Degree,Scientist,9,6,4,0,2,4,1,6,8,Artificial Intelligence Tool
+Bachelor's Degree,Teacher,7,6,2,1,5,8,7,7,8,Educational Platform
+Graduate Diploma,Public Relations Specialist,9,7,3,3,1,6,6,0,7,Food Delivery App
+Certification,Project Manager,10,6,3,0,5,6,6,7,1,Music Production Software
+Master's Degree,Scientist,5,5,4,6,2,2,10,7,0,IoT Platform
+Graduate Diploma,Nurse,2,2,0,1,5,1,0,5,10,Business Intelligence Software
+Vocational Training,Construction Manager,8,4,3,1,3,1,4,10,5,Survey Platform
+Self-Taught,Artist,0,4,1,0,2,10,1,5,8,Marketing Automation Tool
+Trade School,Dentist,9,6,4,5,4,4,7,5,8,Health & Fitness App
+Certification,Nurse,1,3,4,5,1,4,6,4,2,HR Management Software
+No Formal Education,Sales Agent,4,7,4,1,3,0,4,3,5,SaaS Platform
+Graduate Diploma,Construction Worker,0,1,8,6,2,3,9,0,10,Project Management Tool
+PhD,Engineer,3,10,0,0,9,6,8,6,0,Communication Tool
+PhD,Engineer,0,9,5,4,10,0,1,6,6,Educational Platform
+Associate Degree,Public Relations Specialist,9,2,5,3,4,5,6,8,5,Enterprise Software
+Self-Taught,Writer,7,2,9,3,0,4,9,10,6,Design Software
+Trade School,Photographer,10,2,0,5,0,0,0,3,0,Enterprise Software
+Graduate Diploma,HR Manager,3,10,0,0,5,6,7,7,6,CRM Tool
+PhD,University Professor,2,7,0,6,6,1,5,4,8,E-learning Tool
+No Formal Education,Sales Agent,5,5,3,0,0,3,4,5,4,Educational Platform
+Professional Training,Data Scientist,4,5,2,8,6,2,9,7,2,Data Analytics Tool
+Doctoral Degree,Scientist,8,9,1,2,0,1,6,9,9,Virtual Reality Tool
+Doctoral Degree,Copywriter,5,6,7,6,6,5,5,10,0,HR Management Software
+Master's Degree,Pharmacist,1,1,9,6,2,4,4,3,2,E-commerce
+No Formal Education,Waiter,4,0,5,3,4,0,7,7,9,E-commerce
+High School,Gardener,5,1,9,3,5,2,2,7,3,Survey Platform
+Certification,Data Scientist,10,7,5,7,3,1,3,4,5,Artificial Intelligence Tool
+Vocational Training,Pharmacist,6,6,9,2,0,6,0,4,6,Productivity Tool
+PhD,Scientist,8,3,3,5,5,1,5,7,4,Real Estate Software
+Associate's Degree,UX/UI Designer,1,5,0,1,2,0,7,9,3,Web Application
+Master's Degree,Scientist,0,5,1,3,2,1,1,2,2,Health & Fitness App
+Vocational Training,Teacher,1,7,0,3,1,8,0,9,5,Augmented Reality App
+No Formal Education,Waiter,7,7,7,1,6,6,4,6,6,Customer Feedback Tool
+No Formal Education,Waiter,1,3,1,6,6,6,3,5,1,Photo Editing Software
+Doctoral Degree,Product Manager,4,5,2,4,10,0,1,7,6,Learning Management System
+Associate's Degree,Web Developer,3,9,9,8,6,5,10,2,2,Augmented Reality App
+Postdoctoral Studies,Construction Worker,6,10,9,3,0,2,9,7,6,Project Management Tool
+Certification,Financial Analyst,0,1,1,4,0,3,1,3,9,Travel App
+Associate's Degree,UX/UI Designer,9,10,8,3,2,1,7,7,3,Web Application
+Postdoctoral Studies,Editor,2,8,7,0,2,4,6,1,3,Web Application
+Vocational Training,Engineer,9,6,0,2,8,2,5,0,4,Enterprise Software
+Master's Degree,Lawyer,10,4,5,2,5,2,3,8,10,Learning Management System
+Trade School,HR Manager,7,6,6,1,3,5,2,3,0,Music Production Software
+Vocational Training,Retail Worker,7,0,8,2,1,5,5,10,7,Food Delivery App
+Graduate Diploma,Software Engineer,8,2,8,10,4,0,8,8,10,Artificial Intelligence Tool
+Postdoctoral Studies,Civil Engineer,9,0,6,4,5,0,1,0,1,Web Application
+No Formal Education,Construction Worker,10,10,9,2,3,6,10,6,2,Communication Tool
+Graduate Diploma,Scientist,7,10,4,3,3,2,3,3,3,Remote Work Tool
+Associate's Degree,Photographer,7,2,8,1,0,4,8,7,8,Learning Management System
+MBA,Graphic Designer,1,2,0,5,0,5,5,2,10,Survey Platform
+Trade School,Financial Analyst,5,0,5,6,6,3,7,7,0,CRM Tool
+MBA,Realtor,8,8,3,0,0,5,1,9,8,Enterprise Software
+Professional Training,Physician,10,8,9,6,0,1,0,8,3,IoT Platform
+Trade School,Freelance Designer,8,1,0,5,5,8,10,0,6,Design Software
+Doctoral Degree,Scientist,9,6,10,6,0,5,5,5,1,Communication Tool
+Certification,Data Scientist,10,2,10,9,5,4,4,7,0,Artificial Intelligence Tool
+Postdoctoral Studies,Lawyer,3,0,9,2,2,2,2,10,6,Design Software
+Graduate Diploma,Data Scientist,10,3,10,7,2,6,1,3,1,Data Analytics Tool
+PhD,University Professor,5,7,3,2,0,6,4,8,6,CRM Tool
+Vocational Training,Financial Analyst,0,7,9,2,2,3,5,2,5,Blockchain Platform
+Doctoral Degree,Data Scientist,1,0,4,7,3,2,7,6,7,Data Analytics Tool
+Vocational Training,Customer Support,10,9,0,2,2,6,9,3,10,HR Management Software
+PhD,Engineer,9,0,3,1,7,2,0,10,6,Photo Editing Software
+Trade School,IT Consultant,6,1,4,3,3,0,8,4,5,Music Production Software
+Professional Training,Software Engineer,4,5,4,7,4,3,0,0,6,SaaS Platform
+High School,Mechanic,2,6,7,3,3,2,7,5,4,Collaboration Tool
+Vocational Training,Project Manager,10,5,7,0,3,0,3,10,8,Travel App
+PhD,Engineer,1,3,8,1,9,4,0,3,6,Cybersecurity Tool
+Vocational Training,Nurse,7,5,6,5,0,2,8,2,3,Music Production Software
+Professional Training,Product Manager,7,2,10,6,10,4,2,1,5,Streaming Service
+No Formal Education,Waiter,7,0,1,3,5,1,8,6,9,E-commerce
+High School,Retail Worker,3,6,10,6,4,0,5,9,9,Mobile App
+Self-Taught,Data Scientist,2,3,3,9,2,3,9,4,0,Data Analytics Tool
+MBA,Architect,10,9,5,5,0,4,6,1,7,Virtual Reality Tool
+PhD,Engineer,8,8,9,6,8,2,5,8,5,HR Management Software
+Trade School,Web Developer,7,7,2,8,5,3,9,9,10,Remote Work Tool
+Master's Degree,Engineer,6,0,1,4,7,5,4,7,0,Food Delivery App
+High School,Sales Agent,10,6,2,3,1,5,0,10,6,Photo Editing Software
+Bachelor's Degree,Architect,4,3,1,0,5,0,0,10,8,Mobile App
+Bachelor's Degree,Teacher,7,4,2,0,4,9,8,9,6,Health & Fitness App
+Vocational Training,Investment Banker,9,8,6,3,4,6,1,7,6,Cloud Storage
+Bachelor's Degree,Teacher,10,5,10,4,6,7,5,7,7,Food Delivery App
+Trade School,Dentist,7,10,3,3,4,3,4,2,1,Photo Editing Software
+MBA,Tourism Manager,1,9,9,3,1,2,6,10,5,Design Software
+Trade School,Retail Worker,2,8,4,2,4,4,7,5,1,Food Delivery App
+MBA,Web Developer,3,7,0,7,5,6,5,8,0,HR Management Software
+Postdoctoral Studies,Construction Manager,3,7,5,0,5,2,1,5,4,Remote Work Tool
+Professional Training,Product Manager,9,7,10,0,9,5,3,7,0,IoT Platform
+Associate Degree,Retail Worker,9,2,0,4,5,5,5,10,4,E-commerce
+PhD,Researcher,0,10,3,6,4,5,0,6,6,Virtual Reality Tool
+Certification,Freelance Designer,8,10,3,5,0,9,5,7,6,Video Editing Software
+PhD,Researcher,2,7,9,6,5,0,3,8,6,E-learning Tool
+Self-Taught,Civil Engineer,0,5,9,2,5,0,4,7,3,Gaming Platform
+Professional Training,Electrician,8,5,3,2,3,3,6,4,1,Mobile App
+Certification,Engineer,3,1,4,0,10,3,8,5,5,SaaS Platform
+MBA,Product Manager,8,0,7,6,8,3,0,10,9,E-learning Tool
+Doctoral Degree,Photographer,8,0,9,0,6,0,2,4,0,Music Production Software
+Postdoctoral Studies,Dentist,4,7,7,3,2,3,2,8,3,IoT Platform
+Doctoral Degree,Construction Worker,8,9,1,6,6,0,5,9,4,Communication Tool
+PhD,Engineer,0,3,8,4,9,4,7,7,9,Music Production Software
+Doctoral Degree,Editor,7,1,5,2,3,1,5,9,1,Business Intelligence Software
+No Formal Education,Sales Agent,6,1,8,5,6,0,7,10,1,Cybersecurity Tool
+High School,Retail Worker,7,0,2,4,1,2,5,9,3,Mobile App
+Certification,Electrician,0,10,3,0,2,5,0,7,1,Travel App
+High School,Retail Worker,9,7,0,5,6,0,3,2,5,Food Delivery App
+No Formal Education,Construction Worker,1,6,1,3,0,3,2,8,9,Project Management Tool
+Associate's Degree,UX/UI Designer,3,5,1,5,5,1,1,6,6,Mobile App
+Associate Degree,Social Worker,1,5,9,2,2,2,4,7,7,Mobile App
+PhD,Researcher,1,10,9,1,3,5,9,8,6,Music Production Software
+Certification,Architect,3,3,3,5,6,6,0,0,10,Augmented Reality App
+PhD,Scientist,9,1,10,5,4,5,1,1,10,Mobile App
+Doctoral Degree,Product Manager,8,6,1,0,9,0,7,5,3,Customer Feedback Tool
+Master's Degree,University Professor,7,10,8,4,3,0,0,3,7,CRM Tool
+Postdoctoral Studies,Social Worker,9,3,7,4,4,5,9,4,3,Gaming Platform
+Postdoctoral Studies,Retail Worker,1,0,2,1,1,5,8,1,9,E-commerce
+Associate's Degree,Nurse,1,7,8,5,3,6,4,7,0,Business Intelligence Software
+High School,Gardener,3,10,4,3,5,4,4,10,1,HR Management Software
+Certification,Scientist,10,4,9,5,3,6,0,0,8,Communication Tool
+Self-Taught,Copywriter,3,2,0,1,5,5,1,0,5,SaaS Platform
+Vocational Training,Project Manager,3,0,2,4,2,5,9,6,10,Educational Platform
+Vocational Training,Tourism Manager,0,8,2,6,1,4,6,3,1,Real Estate Software
+High School,Gardener,2,5,10,1,2,5,2,8,6,E-learning Tool
+Associate Degree,Event Planner,3,1,2,2,5,6,6,3,0,Travel App
+Self-Taught,Chef,10,3,6,2,3,5,10,1,2,Virtual Reality Tool
+Postdoctoral Studies,Event Planner,8,7,3,6,6,0,0,1,7,Cloud Storage
+Graduate Diploma,Engineer,10,1,7,1,9,1,2,5,1,Project Management Tool
+High School,Mechanic,10,3,9,0,6,4,7,0,3,Data Analytics Tool
+Postdoctoral Studies,Gardener,4,0,3,4,5,3,2,4,0,Health & Fitness App
+Associate's Degree,Customer Support,10,8,5,5,1,1,10,4,10,Data Analytics Tool
+Professional Training,Marketer,3,6,6,1,6,1,2,0,10,Enterprise Software
+Associate Degree,Event Planner,3,0,5,4,2,3,9,3,3,Finance & Accounting Software
+Associate's Degree,Nurse,2,7,4,6,0,3,6,2,10,Productivity Tool
+Associate's Degree,Customer Support,6,10,7,6,1,4,2,0,2,Virtual Reality Tool
+PhD,Researcher,5,0,10,3,3,6,4,6,2,Communication Tool
+Certification,Public Speaker,8,8,10,3,3,3,3,2,5,Mobile App
+Bachelor's Degree,Designer,0,10,10,4,3,2,6,2,7,Streaming Service
+Doctoral Degree,Public Speaker,2,1,0,5,6,4,9,6,10,CRM Tool
+Certification,Event Planner,9,0,7,5,6,6,3,7,10,IoT Platform
+Self-Taught,Realtor,7,3,7,5,6,0,7,5,8,Cloud Storage
+Doctoral Degree,Web Developer,0,9,6,9,5,4,6,9,5,Blockchain Platform
+High School,Gardener,0,1,8,4,1,2,0,7,9,Design Software
+Associate Degree,IT Consultant,3,9,3,1,4,3,5,4,9,Enterprise Software
+Bachelor's Degree,Software Engineer,9,5,4,8,6,5,0,10,10,Artificial Intelligence Tool
+Self-Taught,Product Manager,0,8,0,2,10,2,6,10,9,Virtual Reality Tool
+Self-Taught,Public Relations Specialist,4,1,1,2,0,5,8,9,3,HR Management Software
+Certification,Nurse,0,1,5,6,3,0,3,2,7,IoT Platform
+Master's Degree,Engineer,3,8,8,2,7,3,7,0,0,Design Software
+Graduate Diploma,Data Scientist,5,2,0,10,2,1,4,2,8,Business Intelligence Software
+Associate's Degree,Customer Support,1,0,8,6,6,1,7,1,7,Design Software
+Self-Taught,Chef,8,0,1,0,1,5,6,7,2,Data Analytics Tool
+High School,Sales Agent,10,6,2,0,6,3,4,6,7,Learning Management System
+PhD,University Professor,10,3,6,2,4,2,10,9,9,E-learning Tool
+Vocational Training,Copywriter,8,0,10,1,5,6,10,5,3,Learning Management System
+No Formal Education,Waiter,4,9,9,2,5,4,2,2,9,Customer Feedback Tool
+Postdoctoral Studies,Mechanic,2,5,0,1,4,1,9,8,2,Educational Platform
+No Formal Education,Retail Worker,3,5,5,4,6,6,1,7,10,Mobile App
+Postdoctoral Studies,Chef,5,8,3,6,6,1,0,4,9,Video Editing Software
+Associate's Degree,Photographer,9,3,3,3,4,1,10,0,6,E-commerce
+Associate Degree,Electrician,10,10,9,2,2,5,6,1,4,Marketing Automation Tool
+Professional Training,Sales Agent,5,2,9,3,2,5,6,9,0,Educational Platform
+Postdoctoral Studies,Nurse,3,5,4,4,6,0,2,9,9,Music Production Software
+No Formal Education,Retail Worker,4,9,2,0,1,3,4,8,6,Food Delivery App
+PhD,University Professor,5,1,6,1,5,5,2,5,10,E-learning Tool
+No Formal Education,Construction Worker,10,10,2,5,6,4,6,9,6,Communication Tool
+Postdoctoral Studies,Graphic Designer,1,5,10,6,3,4,4,1,8,Web Application
+Trade School,Event Planner,4,0,1,1,0,4,1,5,8,Productivity Tool
+Postdoctoral Studies,Business Analyst,5,8,5,5,5,5,4,10,6,Cloud Storage
+Associate's Degree,Photographer,10,2,6,1,3,6,5,5,8,Virtual Reality Tool
+Professional Training,Social Media Manager,6,9,8,6,4,2,2,3,5,Finance & Accounting Software
+No Formal Education,Waiter,5,3,9,6,0,0,6,6,1,Cloud Storage
+Vocational Training,Physician,9,8,8,5,0,1,8,3,6,Photo Editing Software
+Professional Training,Nurse,7,4,1,5,3,4,7,8,8,Gaming Platform
+Master's Degree,Scientist,7,3,1,4,4,5,6,8,6,E-learning Tool
+Graduate Diploma,Lawyer,3,4,1,4,3,3,8,4,8,Remote Work Tool
+Associate Degree,Social Worker,0,10,6,1,5,5,0,8,7,Photo Editing Software
+No Formal Education,Sales Agent,4,3,9,2,2,0,2,2,9,Food Delivery App
+Certification,Unemployed,4,5,5,1,6,2,10,1,6,E-commerce
+Master's Degree,Scientist,5,8,10,5,3,2,2,2,8,Personal Finance Tool
+Vocational Training,Accountant,6,1,3,1,3,4,0,6,8,Health & Fitness App
+Postdoctoral Studies,Data Scientist,8,9,7,9,4,5,1,10,9,Business Intelligence Software
+Postdoctoral Studies,Editor,9,6,4,0,3,4,2,5,3,Web Application
+Doctoral Degree,Waiter,8,6,2,5,0,2,6,7,9,Artificial Intelligence Tool
+MBA,Tourism Manager,2,9,4,1,4,2,6,10,8,Enterprise Software
+Master's Degree,Scientist,6,1,8,3,1,4,10,2,5,Real Estate Software
+High School,Mechanic,2,1,3,6,5,0,4,3,8,CRM Tool
+Master's Degree,Pharmacist,4,5,9,3,1,1,9,9,0,CRM Tool
+High School,Mechanic,3,7,5,4,3,4,4,7,10,Cloud Storage
+Self-Taught,Product Manager,4,5,10,3,7,3,3,6,8,Customer Feedback Tool
+Bachelor's Degree,Teacher,9,4,4,0,2,10,6,10,1,Data Analytics Tool
+Certification,Mechanic,3,4,2,2,3,1,5,10,7,Food Delivery App
+Self-Taught,Graphic Designer,5,3,9,0,0,6,6,0,0,E-learning Tool
+Bachelor's Degree,Designer,8,5,10,0,3,2,7,8,7,Communication Tool
+PhD,University Professor,3,6,8,3,3,4,4,9,6,Educational Platform
+PhD,Engineer,8,2,1,3,7,0,6,9,9,E-commerce
+Associate Degree,Construction Manager,6,1,0,6,2,2,3,8,5,Communication Tool
+Master's Degree,Scientist,10,2,6,1,6,4,10,1,5,IoT Platform
+Bachelor's Degree,Product Manager,6,8,1,1,8,2,6,1,4,Communication Tool
+Vocational Training,Graphic Designer,4,8,0,4,0,0,10,2,0,Real Estate Software
+PhD,Engineer,3,6,1,4,9,5,9,7,2,Personal Finance Tool
+Certification,Retail Worker,8,9,0,3,2,6,7,4,3,Food Delivery App
+Self-Taught,Freelance Designer,0,0,7,1,3,9,9,2,8,Design Software
+High School,Construction Worker,1,8,9,3,3,1,8,5,1,Project Management Tool
+Associate's Degree,Nurse,9,7,7,2,1,6,0,8,2,Blockchain Platform
+Doctoral Degree,Engineer,7,1,7,1,8,0,9,5,4,Music Production Software
+Self-Taught,Public Relations Specialist,2,10,2,6,4,2,1,5,0,Project Management Tool
+Doctoral Degree,Artist,7,1,2,5,3,10,9,0,4,Cloud Storage
+Vocational Training,Mechanic,3,6,0,1,0,3,7,7,5,CRM Tool
+No Formal Education,Gardener,8,0,3,6,6,4,10,3,8,Cloud Storage
+Postdoctoral Studies,Civil Engineer,3,7,7,1,2,2,4,5,3,Educational Platform
+PhD,Engineer,3,8,6,6,7,6,1,4,7,Collaboration Tool
+PhD,Researcher,9,1,7,6,6,4,1,4,3,Food Delivery App
+Master's Degree,Scientist,0,3,0,0,6,1,10,6,10,Design Software
+Doctoral Degree,Public Speaker,1,4,1,1,1,0,8,6,9,Video Editing Software
+Associate Degree,Photographer,1,9,9,0,1,1,6,9,7,Blockchain Platform
+Professional Training,Chef,5,5,5,4,1,5,2,0,2,Personal Finance Tool
+Professional Training,Editor,2,0,7,5,3,5,8,7,0,Artificial Intelligence Tool
+Doctoral Degree,Electrician,7,2,5,1,5,5,3,1,10,Gaming Platform
+Trade School,Tech CEO,4,6,3,4,8,3,6,1,4,Project Management Tool
+Vocational Training,Public Relations Specialist,4,5,6,0,2,3,9,3,7,Survey Platform
+Professional Training,Engineer,2,4,2,6,7,2,2,9,2,Personal Finance Tool
+Associate's Degree,UX/UI Designer,9,4,10,3,3,3,4,1,2,Mobile App
+Vocational Training,IT Consultant,0,6,5,1,4,6,5,10,3,Survey Platform
+No Formal Education,Sales Agent,3,4,5,5,5,4,5,6,8,Remote Work Tool
+Associate's Degree,UX/UI Designer,7,2,7,3,0,0,6,8,1,Mobile App
+Graduate Diploma,HR Manager,6,2,0,2,2,5,8,0,2,Productivity Tool
+Certification,Business Analyst,2,1,5,6,1,0,9,4,2,E-learning Tool
+Postdoctoral Studies,Architect,3,1,10,0,0,6,7,10,6,Remote Work Tool
+MBA,Investment Banker,6,9,7,0,0,2,6,5,2,Health & Fitness App
+Postdoctoral Studies,Editor,3,4,4,5,4,2,1,3,10,Video Editing Software
+Graduate Diploma,Copywriter,10,9,1,1,6,4,8,4,6,Enterprise Software
+Professional Training,Pharmacist,8,7,6,4,3,2,7,6,6,Streaming Service
+Master's Degree,Pharmacist,4,3,7,2,3,4,3,0,7,Learning Management System
+No Formal Education,Construction Worker,9,3,6,5,2,4,1,5,1,Project Management Tool
+Bachelor's Degree,Teacher,3,5,8,1,2,9,10,8,3,Streaming Service
+PhD,Scientist,2,10,9,1,6,0,1,2,8,CRM Tool
+Certification,Lawyer,6,4,8,6,1,6,3,2,3,Video Editing Software
+Self-Taught,Financial Analyst,4,10,10,1,6,0,1,10,6,Personal Finance Tool
+PhD,Researcher,0,4,8,2,4,5,5,7,1,E-learning Tool
+PhD,Engineer,6,2,4,4,7,6,3,6,6,Cybersecurity Tool
+Doctoral Degree,Social Media Manager,5,3,0,6,1,1,6,4,1,Survey Platform
+Trade School,IT Consultant,8,6,0,4,4,3,7,4,8,Design Software
+Graduate Diploma,Mechanic,5,0,5,6,6,6,10,3,10,Web Application
+Bachelor's Degree,Teacher,1,8,2,2,0,7,3,9,1,Survey Platform
+High School,Mechanic,0,0,9,1,0,2,10,9,6,Finance & Accounting Software
+Associate Degree,Business Analyst,10,8,10,1,0,3,2,8,0,Health & Fitness App
+Self-Taught,Realtor,6,3,2,3,3,1,7,1,8,Health & Fitness App
+PhD,Researcher,3,7,9,5,0,2,5,10,4,E-commerce
+Associate's Degree,Nurse,1,10,1,1,1,0,1,7,7,Communication Tool
+Self-Taught,Lawyer,8,2,6,5,5,6,10,5,9,IoT Platform
+No Formal Education,Gardener,7,7,0,5,4,4,2,2,7,HR Management Software
+Master's Degree,Pharmacist,9,10,8,1,4,2,6,0,1,Communication Tool
+High School,Retail Worker,4,10,7,3,5,4,8,6,2,Food Delivery App
+Self-Taught,Civil Engineer,5,3,8,3,0,6,3,5,3,Customer Feedback Tool
+Vocational Training,Investment Banker,1,0,1,6,5,6,2,3,0,Streaming Service
+Vocational Training,Tech CEO,2,5,5,5,8,4,10,7,4,Project Management Tool
+Associate Degree,Social Worker,0,5,7,4,2,1,8,3,4,Cloud Storage
+Doctoral Degree,Unemployed,9,0,0,3,3,1,8,3,6,Learning Management System
+Doctoral Degree,Realtor,1,5,3,4,1,5,1,6,4,Remote Work Tool
+Bachelor's Degree,Teacher,3,5,7,3,1,10,4,8,1,E-learning Tool
+Associate Degree,Civil Engineer,5,2,0,2,5,4,8,1,0,Design Software
+Trade School,Photographer,6,6,9,1,4,1,10,2,0,Music Production Software
+Associate's Degree,UX/UI Designer,2,10,6,2,0,6,8,6,8,Web Application
+Postdoctoral Studies,Chef,8,4,8,0,5,5,7,5,2,Collaboration Tool
+PhD,Engineer,5,8,2,1,8,1,8,5,10,Personal Finance Tool
+Professional Training,Copywriter,10,4,0,2,3,0,9,10,4,Photo Editing Software
+Graduate Diploma,Financial Analyst,8,10,6,6,6,0,5,7,0,E-commerce
+High School,Construction Worker,6,1,8,6,4,2,5,1,10,Communication Tool
+Doctoral Degree,Public Relations Specialist,0,2,2,0,2,6,0,9,10,Remote Work Tool
+No Formal Education,Sales Agent,2,5,1,5,1,5,4,10,1,Gaming Platform
+Self-Taught,Data Scientist,6,10,8,9,2,3,4,3,0,Data Analytics Tool
+PhD,Scientist,0,8,8,3,1,4,3,6,4,Virtual Reality Tool
+Graduate Diploma,Web Developer,7,3,2,7,5,3,0,0,10,Data Analytics Tool
+Certification,Sales Agent,2,5,10,4,0,5,5,2,8,Food Delivery App
+High School,Gardener,3,10,0,6,5,3,1,10,0,Mobile App
+Graduate Diploma,Engineer,0,2,3,0,10,3,5,10,4,Business Intelligence Software
+High School,Retail Worker,8,2,2,1,4,6,5,10,8,E-commerce
+Associate's Degree,Nurse,7,4,4,2,4,6,6,9,7,Photo Editing Software
+No Formal Education,Sales Agent,5,4,7,1,0,4,10,0,10,Data Analytics Tool
+Doctoral Degree,Mechanic,1,2,6,6,1,6,6,10,3,CRM Tool
+No Formal Education,Waiter,1,8,5,5,4,2,7,3,9,Personal Finance Tool
+Postdoctoral Studies,Realtor,0,4,0,3,4,0,2,9,8,Educational Platform
+Associate Degree,HR Manager,9,3,8,5,5,2,3,2,7,Cybersecurity Tool
+Self-Taught,Unemployed,3,4,8,1,6,0,0,10,1,HR Management Software
+No Formal Education,Construction Worker,10,9,1,2,0,6,9,7,6,Communication Tool
+MBA,Business Analyst,5,4,3,0,6,2,7,3,10,Learning Management System
+Master's Degree,Lawyer,0,9,6,0,2,4,8,2,10,Business Intelligence Software
+MBA,Scientist,10,0,9,1,0,5,0,1,8,Educational Platform
+Trade School,Marketer,9,7,0,3,1,6,1,3,6,Real Estate Software
+Doctoral Degree,Public Speaker,2,5,3,6,5,5,2,10,3,Artificial Intelligence Tool
+Bachelor's Degree,Architect,4,0,7,0,2,0,0,5,4,Educational Platform
+Professional Training,Construction Manager,4,3,1,1,6,6,7,0,1,CRM Tool
+Bachelor's Degree,Software Engineer,6,8,7,7,1,6,3,1,3,Artificial Intelligence Tool
+PhD,University Professor,5,8,3,6,1,3,7,6,9,E-learning Tool
+Master's Degree,Pharmacist,6,5,4,4,4,3,6,3,9,Music Production Software
+No Formal Education,Waiter,1,10,5,4,2,5,8,6,10,Survey Platform
+No Formal Education,Construction Worker,10,2,1,3,6,0,1,3,10,Communication Tool
+High School,Mechanic,1,10,4,2,0,0,2,4,2,Communication Tool
+Certification,Dentist,6,0,9,4,1,5,5,3,6,E-commerce
+Associate's Degree,Photographer,4,1,3,1,1,3,6,5,0,E-commerce
+Professional Training,Marketer,7,1,4,5,1,1,9,0,5,Enterprise Software
+High School,Mechanic,6,5,6,2,6,3,0,10,4,Collaboration Tool
+Graduate Diploma,Editor,2,5,5,5,2,3,9,0,6,Food Delivery App
+Self-Taught,Project Manager,9,5,8,3,4,0,3,5,7,Gaming Platform
+PhD,Researcher,5,3,3,3,2,6,3,10,5,Survey Platform
+No Formal Education,Construction Worker,4,5,4,1,1,1,8,0,0,Project Management Tool
+Graduate Diploma,Marketer,6,7,4,5,0,1,5,6,1,Virtual Reality Tool
+No Formal Education,Sales Agent,3,0,3,0,1,2,6,5,10,Personal Finance Tool
+Graduate Diploma,Public Speaker,3,9,10,6,3,1,1,1,7,Gaming Platform
+Professional Training,Civil Engineer,5,6,9,3,5,0,8,10,4,Enterprise Software
+PhD,Engineer,3,1,4,2,7,5,7,3,0,Gaming Platform
+Certification,Copywriter,2,2,10,5,4,4,4,9,0,Artificial Intelligence Tool
+Certification,UX/UI Designer,9,10,1,2,5,1,9,9,2,Web Application
+High School,Electrician,1,0,4,0,3,2,7,6,9,Gaming Platform
+Self-Taught,Social Media Manager,6,1,7,5,0,0,6,9,8,Remote Work Tool
+Trade School,Social Worker,2,0,5,3,2,3,7,3,5,Business Intelligence Software
+Graduate Diploma,Construction Manager,10,3,9,4,0,1,10,5,8,Photo Editing Software
+Vocational Training,Unemployed,10,10,9,5,5,0,8,6,8,Enterprise Software
+Postdoctoral Studies,Marketer,3,8,1,3,4,1,5,7,0,Artificial Intelligence Tool
+Master's Degree,Scientist,4,6,9,5,2,2,4,3,8,Personal Finance Tool
+Graduate Diploma,Financial Analyst,9,3,7,2,5,1,9,8,1,Data Analytics Tool
+Postdoctoral Studies,Nurse,1,1,4,4,2,2,4,8,4,Music Production Software
+Trade School,Software Engineer,8,10,6,7,5,6,2,9,7,Artificial Intelligence Tool
+Vocational Training,Public Relations Specialist,2,10,6,4,2,4,7,3,5,Real Estate Software
+Doctoral Degree,Unemployed,10,5,3,6,4,0,4,5,6,IoT Platform
+Certification,Dentist,9,4,2,0,6,1,2,8,0,Learning Management System
+Master's Degree,University Professor,8,10,0,2,3,5,6,0,7,E-learning Tool
+Certification,Pharmacist,0,8,9,1,3,2,4,7,8,Virtual Reality Tool
+No Formal Education,Retail Worker,0,8,1,0,0,4,4,1,0,Food Delivery App
+Certification,Social Worker,0,6,6,3,4,1,6,3,2,Streaming Service
+Graduate Diploma,Accountant,8,6,7,2,5,1,5,1,3,Communication Tool
+Self-Taught,Financial Analyst,7,8,1,4,3,1,8,1,5,Business Intelligence Software
+Trade School,Software Engineer,4,3,10,10,5,3,5,10,9,SaaS Platform
+High School,Construction Worker,9,6,5,3,4,5,4,2,7,Communication Tool
+Associate Degree,Social Worker,0,1,5,2,4,3,5,5,7,Design Software
+Master's Degree,Pharmacist,2,8,1,4,2,6,0,9,10,Collaboration Tool
+Master's Degree,Lawyer,5,9,8,3,2,2,10,9,9,Web Application
+No Formal Education,Construction Worker,6,1,10,2,1,6,7,8,2,Communication Tool
+No Formal Education,Retail Worker,9,4,6,0,2,6,0,10,8,Mobile App
+PhD,Engineer,3,4,2,5,7,0,2,4,10,Video Editing Software
+MBA,Data Scientist,5,1,1,7,6,0,9,10,4,Artificial Intelligence Tool
+Professional Training,Retail Worker,9,8,0,6,5,0,3,4,6,Mobile App
+Graduate Diploma,Retail Worker,5,4,6,1,1,0,5,5,6,Mobile App
+Bachelor's Degree,Designer,2,3,0,2,5,4,2,10,1,Artificial Intelligence Tool
+Trade School,Waiter,1,1,4,2,6,6,0,1,3,IoT Platform
+Certification,Public Relations Specialist,7,7,5,1,1,1,2,2,4,Blockchain Platform
+No Formal Education,Construction Worker,7,9,8,5,1,2,8,10,8,Communication Tool
+Self-Taught,Public Speaker,10,7,10,4,1,2,7,4,8,Streaming Service
+Vocational Training,Investment Banker,3,9,1,4,0,2,8,1,5,Design Software
+Self-Taught,Scientist,10,8,3,1,2,3,5,7,9,Cloud Storage
+No Formal Education,Sales Agent,10,7,6,0,1,6,1,5,4,Remote Work Tool
+Graduate Diploma,Copywriter,1,3,8,0,6,3,7,2,1,Music Production Software
+Vocational Training,Pharmacist,4,9,1,5,3,3,6,6,3,Photo Editing Software
+Doctoral Degree,Waiter,4,9,4,0,4,5,9,8,5,Productivity Tool
+Bachelor's Degree,Product Manager,4,1,4,2,7,5,9,7,1,Video Editing Software
+Certification,Customer Support,0,6,6,3,3,4,4,4,8,Artificial Intelligence Tool
+PhD,Scientist,7,5,2,5,0,3,4,5,5,Blockchain Platform
+High School,Sales Agent,4,10,6,5,4,3,4,3,0,Survey Platform
+High School,Sales Agent,9,5,3,5,6,3,0,1,6,Collaboration Tool
+Master's Degree,Lawyer,5,0,7,6,5,3,0,10,6,Cloud Storage
+MBA,Lawyer,4,2,10,2,6,6,6,9,2,Customer Feedback Tool
+Associate Degree,Marketer,6,7,4,5,0,4,7,5,2,Project Management Tool
+High School,Electrician,2,2,0,2,1,4,5,10,5,IoT Platform
+Professional Training,Project Manager,8,7,10,2,5,5,2,6,1,Photo Editing Software
+Graduate Diploma,Teacher,10,3,7,5,0,7,7,4,6,Blockchain Platform
+Self-Taught,Social Media Manager,0,8,3,6,0,5,4,0,6,Cybersecurity Tool
+PhD,Researcher,1,5,3,5,3,2,6,0,6,Personal Finance Tool
+Graduate Diploma,Construction Worker,1,1,0,3,3,5,2,6,2,Project Management Tool
+Associate Degree,Gardener,8,2,5,2,2,1,3,3,4,Communication Tool
+Graduate Diploma,Copywriter,4,3,0,3,6,0,7,6,6,Finance & Accounting Software
+Self-Taught,Writer,10,9,8,5,5,6,7,5,3,Survey Platform
+Graduate Diploma,Tourism Manager,1,6,4,4,2,0,2,9,3,Music Production Software
+Master's Degree,Lawyer,7,4,9,3,6,0,7,4,7,E-learning Tool
+Master's Degree,Pharmacist,4,8,9,0,0,3,1,10,4,Collaboration Tool
+Bachelor's Degree,Teacher,8,7,4,0,2,8,9,5,5,Streaming Service
+Master's Degree,Scientist,8,8,4,4,6,0,4,10,10,Finance & Accounting Software
+Bachelor's Degree,Product Manager,9,5,2,5,8,2,1,8,3,Virtual Reality Tool
+PhD,Scientist,2,2,4,6,5,2,9,2,6,Business Intelligence Software
+Doctoral Degree,Realtor,10,3,1,1,6,6,3,0,8,Photo Editing Software
+Associate's Degree,Nurse,1,3,7,0,6,6,8,10,0,Communication Tool
+Self-Taught,Accountant,1,0,6,5,0,1,10,2,6,SaaS Platform
+Vocational Training,Marketer,5,6,7,5,1,2,2,0,3,Cybersecurity Tool
+Postdoctoral Studies,Marketer,7,4,1,6,4,3,0,7,9,HR Management Software
+Postdoctoral Studies,Customer Support,8,4,9,6,3,3,6,5,9,Cybersecurity Tool
+Associate's Degree,Customer Support,4,3,9,6,2,0,8,8,2,Business Intelligence Software
+Postdoctoral Studies,Public Speaker,9,7,3,1,3,0,6,2,10,E-commerce
+Vocational Training,Tech CEO,9,3,5,2,9,6,8,3,0,Enterprise Software
+No Formal Education,Construction Worker,3,3,7,2,2,5,7,6,1,Project Management Tool
+MBA,Social Media Manager,4,9,4,4,4,3,4,8,0,IoT Platform
+Graduate Diploma,Waiter,8,1,2,1,2,1,8,10,5,Communication Tool
+Associate Degree,Electrician,2,10,6,3,4,2,0,3,5,Virtual Reality Tool
+MBA,IT Consultant,1,5,3,0,6,5,0,2,7,Business Intelligence Software
+Associate Degree,Artist,3,0,0,4,3,9,6,10,9,Food Delivery App
+Bachelor's Degree,Data Scientist,7,6,4,7,0,0,5,1,2,Business Intelligence Software
+Vocational Training,Waiter,6,4,0,6,2,6,2,2,4,Travel App
+High School,Retail Worker,10,9,8,1,6,0,1,2,2,Food Delivery App
+Certification,Dentist,6,7,6,3,1,4,6,5,10,E-commerce
+Trade School,Artist,9,10,0,3,3,10,2,7,7,Design Software
+PhD,Scientist,4,9,1,5,4,6,9,4,9,HR Management Software
+Trade School,Public Relations Specialist,6,8,2,0,5,1,0,4,1,Educational Platform
+Graduate Diploma,Business Analyst,10,5,1,6,2,5,5,1,8,Blockchain Platform
+Master's Degree,Scientist,8,1,2,4,4,5,6,5,2,Health & Fitness App
+Vocational Training,Lawyer,9,6,1,0,1,4,9,10,7,Educational Platform
+MBA,Product Manager,10,5,10,3,8,0,10,5,10,Gaming Platform
+Associate Degree,Social Worker,7,2,2,0,6,1,2,1,10,Blockchain Platform
+Vocational Training,Business Analyst,9,1,3,6,4,1,2,8,8,Customer Feedback Tool
+Doctoral Degree,Physician,1,8,2,6,3,3,0,9,5,IoT Platform
+Self-Taught,Web Developer,6,2,5,8,5,3,2,2,7,IoT Platform
+PhD,Engineer,9,9,0,0,8,1,5,1,1,Mobile App
+Bachelor's Degree,Designer,6,8,9,1,0,2,4,10,10,Project Management Tool
+Professional Training,Editor,4,6,7,4,1,5,6,5,3,Enterprise Software
+MBA,Artist,6,3,10,0,3,7,5,8,3,Design Software
+Certification,Electrician,4,6,7,1,3,1,9,4,10,Marketing Automation Tool
+Associate's Degree,Web Developer,5,6,3,9,0,0,4,7,5,Remote Work Tool
+PhD,University Professor,7,3,2,5,0,2,7,0,7,Educational Platform
+Associate's Degree,Photographer,9,5,8,0,5,6,6,7,2,Remote Work Tool
+Self-Taught,Pharmacist,4,2,3,6,5,4,3,10,0,Cloud Storage
+Vocational Training,HR Manager,1,5,8,4,2,0,6,7,3,SaaS Platform
+PhD,Researcher,4,4,7,3,6,4,0,8,5,Educational Platform
+MBA,Artist,5,9,7,1,1,10,8,9,9,Augmented Reality App
+PhD,Researcher,0,2,6,2,2,0,3,0,1,CRM Tool
+Professional Training,HR Manager,1,8,0,5,5,2,6,1,8,Cloud Storage
+High School,Retail Worker,4,8,1,6,6,3,9,7,4,E-commerce
+Professional Training,HR Manager,0,1,10,1,3,0,0,2,5,SaaS Platform
+MBA,Public Speaker,7,10,6,3,5,4,10,1,2,Business Intelligence Software
+PhD,Researcher,10,6,2,6,4,0,3,0,2,Music Production Software
+Postdoctoral Studies,Gardener,9,0,9,2,0,3,7,10,6,Remote Work Tool
+Certification,Graphic Designer,3,0,3,5,4,4,6,10,4,Photo Editing Software
+Vocational Training,Project Manager,6,6,8,5,5,5,1,1,6,Project Management Tool
+PhD,Scientist,10,1,2,1,4,2,8,10,9,Food Delivery App
+Associate's Degree,Nurse,9,8,4,0,3,5,9,6,6,Personal Finance Tool
+Graduate Diploma,Customer Support,10,9,2,5,5,5,2,9,7,Finance & Accounting Software
+Trade School,Copywriter,3,5,9,2,2,0,5,10,5,Remote Work Tool
+Graduate Diploma,Marketer,4,5,7,1,2,5,8,2,2,Design Software
+Associate's Degree,Photographer,1,1,2,3,3,2,5,4,5,Communication Tool
+MBA,Retail Worker,7,0,9,6,4,6,0,6,10,Mobile App
+MBA,HR Manager,4,4,6,2,3,3,9,7,6,Cybersecurity Tool
+Trade School,Chef,9,2,0,5,5,1,10,1,10,Mobile App
+Professional Training,Electrician,7,3,1,3,1,4,3,4,3,Web Application
+Professional Training,Social Media Manager,8,1,5,1,6,1,4,0,8,Travel App
+MBA,Project Manager,4,5,5,3,6,3,0,6,10,Health & Fitness App
+Self-Taught,Photographer,8,5,10,5,2,2,7,2,3,Finance & Accounting Software
+Associate's Degree,Photographer,9,5,4,0,5,0,2,1,10,Survey Platform
+Bachelor's Degree,Designer,9,4,7,4,1,5,9,8,7,Customer Feedback Tool
+MBA,Copywriter,8,9,9,3,6,6,7,5,1,Health & Fitness App
+Associate Degree,Social Media Manager,3,8,6,4,2,2,3,10,1,Survey Platform
+Professional Training,Mechanic,0,7,10,6,6,6,8,3,10,Virtual Reality Tool
+Certification,Teacher,8,1,9,4,3,9,8,10,3,Music Production Software
+Self-Taught,Gardener,5,4,9,6,1,2,4,3,3,CRM Tool
+Associate's Degree,UX/UI Designer,0,2,6,3,2,2,5,5,8,Web Application
+Professional Training,Customer Support,3,10,10,4,0,6,4,10,5,Music Production Software
+Associate Degree,Nurse,6,10,0,1,3,4,6,2,5,HR Management Software
+PhD,Scientist,9,4,3,4,6,5,7,5,1,Productivity Tool
+MBA,Project Manager,3,4,5,5,1,6,9,0,8,Music Production Software
+MBA,Mechanic,9,1,9,0,4,2,3,6,9,E-commerce
+Vocational Training,Project Manager,5,1,7,5,2,5,5,9,4,Survey Platform
+Postdoctoral Studies,Graphic Designer,1,4,5,4,2,2,4,6,1,Learning Management System
+PhD,Scientist,7,5,9,5,4,4,1,8,8,Photo Editing Software
+High School,Mechanic,5,2,6,5,5,0,4,10,7,Cybersecurity Tool
+Graduate Diploma,Copywriter,6,4,4,1,5,6,6,5,9,IoT Platform
+Certification,Investment Banker,9,3,9,0,3,0,4,5,1,IoT Platform
+Self-Taught,Civil Engineer,3,8,5,4,1,6,5,3,9,Cloud Storage
+Doctoral Degree,Waiter,2,3,8,6,1,6,1,5,10,Cloud Storage
+Associate's Degree,Customer Support,5,1,6,5,4,1,9,4,8,E-commerce
+Associate Degree,Gardener,5,6,5,1,0,1,1,2,3,Customer Feedback Tool
+Professional Training,Pharmacist,2,8,5,6,3,5,6,10,5,CRM Tool
+Self-Taught,Artist,3,4,1,3,4,8,2,4,5,Photo Editing Software
+High School,Mechanic,0,0,7,4,5,3,5,6,4,CRM Tool
+Master's Degree,Scientist,6,10,10,3,1,3,3,1,5,Travel App
+High School,Electrician,0,7,2,2,3,2,8,1,9,Communication Tool
+Trade School,Construction Manager,9,8,4,1,6,0,10,10,10,Finance & Accounting Software
+No Formal Education,Construction Worker,4,7,8,5,0,6,8,7,3,Project Management Tool
+Trade School,Mechanic,4,4,7,6,0,1,3,9,2,Food Delivery App
+Self-Taught,Sales Agent,9,4,1,4,6,3,2,4,0,Collaboration Tool
+Professional Training,Photographer,0,2,4,1,2,2,4,5,10,Augmented Reality App
+Vocational Training,Writer,4,6,9,5,4,1,10,7,5,Business Intelligence Software
+Vocational Training,Customer Support,6,8,1,1,6,2,9,6,4,Collaboration Tool
+Postdoctoral Studies,Software Engineer,2,7,4,10,6,4,0,3,7,Enterprise Software
+Self-Taught,Public Speaker,3,9,0,5,1,3,8,10,5,Remote Work Tool
+Professional Training,Construction Worker,2,10,9,1,6,1,0,0,6,Project Management Tool
+Certification,Investment Banker,9,9,7,6,3,2,7,3,9,Cybersecurity Tool
+Master's Degree,University Professor,1,1,7,5,6,0,9,3,9,Educational Platform
+Certification,Sales Agent,8,8,0,2,5,4,3,4,7,Cybersecurity Tool
+Certification,Data Scientist,0,8,1,8,2,2,9,8,9,Business Intelligence Software
+Bachelor's Degree,Designer,6,5,7,5,3,0,2,8,8,Artificial Intelligence Tool
+Certification,University Professor,5,8,7,2,4,2,9,7,8,Educational Platform
+Self-Taught,Copywriter,1,8,9,5,2,4,5,6,10,Productivity Tool
+No Formal Education,Gardener,2,4,8,5,2,3,9,10,10,Learning Management System
+Self-Taught,Public Speaker,5,7,4,6,4,0,5,6,4,Health & Fitness App
+Certification,Waiter,6,1,9,5,2,0,9,0,8,E-commerce
+Postdoctoral Studies,Accountant,2,1,3,0,6,1,6,8,1,Customer Feedback Tool
+Trade School,Retail Worker,4,3,7,5,4,0,8,3,0,Food Delivery App
+Vocational Training,Lawyer,7,4,6,3,5,4,9,8,8,Video Editing Software
+Professional Training,Civil Engineer,5,6,8,6,4,2,10,6,2,Gaming Platform
+Certification,Pharmacist,5,3,3,2,3,1,10,5,7,Real Estate Software
+Doctoral Degree,Mechanic,2,0,8,0,0,2,9,3,6,Marketing Automation Tool
+Associate's Degree,Customer Support,7,1,4,6,4,4,10,6,8,Travel App
+Postdoctoral Studies,Sales Agent,8,9,7,0,1,1,6,3,9,Augmented Reality App
+Associate Degree,Project Manager,0,0,0,2,6,1,3,6,6,Business Intelligence Software
+Graduate Diploma,Sales Agent,6,9,1,4,3,2,8,3,6,Streaming Service
+High School,Electrician,1,9,5,1,4,1,7,6,10,Remote Work Tool
+Master's Degree,Scientist,8,10,5,5,2,0,0,10,9,Health & Fitness App
+Professional Training,Tech CEO,8,6,1,6,9,3,4,6,7,Enterprise Software
+Associate Degree,Physician,1,1,3,0,6,1,1,5,9,E-learning Tool
+Professional Training,Waiter,6,2,2,5,6,3,2,2,9,Data Analytics Tool
+Trade School,Architect,4,5,10,6,4,0,10,8,1,Business Intelligence Software
+High School,Electrician,1,0,3,3,1,4,0,9,1,Customer Feedback Tool
+High School,Sales Agent,7,9,6,1,1,1,1,3,2,IoT Platform
+Doctoral Degree,Gardener,1,10,5,5,4,5,9,0,8,CRM Tool
+High School,Mechanic,7,8,0,2,2,1,3,7,5,Cybersecurity Tool
+Vocational Training,Scientist,5,7,9,2,5,5,1,3,3,Cybersecurity Tool
+Associate's Degree,UX/UI Designer,8,4,2,3,1,5,2,6,8,Web Application
+MBA,Copywriter,1,3,10,4,2,2,6,9,4,Communication Tool
+Graduate Diploma,UX/UI Designer,10,9,6,1,0,1,2,4,2,Mobile App
+Self-Taught,Chef,1,0,2,6,1,6,8,10,3,Marketing Automation Tool
+Vocational Training,Civil Engineer,9,5,10,5,0,3,5,2,10,Marketing Automation Tool
+Certification,Electrician,1,4,2,4,4,5,3,2,0,Travel App
+Vocational Training,UX/UI Designer,6,1,6,6,4,4,9,4,3,Web Application
+Doctoral Degree,Engineer,8,3,7,2,8,4,9,4,1,CRM Tool
+Postdoctoral Studies,Marketer,5,6,1,0,6,0,4,1,1,Augmented Reality App
+Trade School,Construction Worker,4,0,4,5,4,4,3,0,7,Communication Tool
+Certification,Event Planner,8,9,1,4,4,2,5,9,1,Music Production Software
+PhD,University Professor,3,10,3,0,1,1,7,10,0,Educational Platform
+No Formal Education,Construction Worker,4,8,9,4,1,3,3,4,1,Project Management Tool
+Vocational Training,Artist,6,1,5,6,2,10,8,9,6,Educational Platform
+Associate Degree,Graphic Designer,0,6,1,6,3,4,9,10,9,Streaming Service
+PhD,Engineer,2,2,5,1,7,5,3,0,7,Real Estate Software
+Associate's Degree,Customer Support,1,9,9,4,3,5,8,1,5,Marketing Automation Tool
+High School,Sales Agent,7,7,10,0,1,3,1,10,7,Real Estate Software
+Associate Degree,Engineer,9,9,9,1,10,3,0,9,2,HR Management Software
+MBA,University Professor,5,10,10,1,6,6,4,5,10,CRM Tool
+Professional Training,Teacher,1,6,6,0,0,8,10,8,2,HR Management Software
+Master's Degree,University Professor,10,1,6,6,4,3,7,0,5,CRM Tool
+Bachelor's Degree,Product Manager,2,5,6,3,9,3,2,6,5,Real Estate Software
+Graduate Diploma,Product Manager,8,9,1,3,9,5,4,9,6,E-learning Tool
+Associate's Degree,Nurse,7,6,4,2,1,3,2,9,9,Communication Tool
+High School,Mechanic,2,9,3,0,4,5,4,6,7,Augmented Reality App
+Master's Degree,Lawyer,1,7,10,3,1,4,10,4,10,Augmented Reality App
+High School,Sales Agent,8,9,2,1,6,3,2,2,9,Educational Platform
+Postdoctoral Studies,Copywriter,9,3,0,2,2,5,5,5,9,Artificial Intelligence Tool
+Graduate Diploma,UX/UI Designer,6,10,2,3,5,4,6,6,9,Web Application
+Postdoctoral Studies,Writer,9,0,10,4,2,0,6,0,7,E-learning Tool
+MBA,Tech CEO,4,3,6,1,7,0,9,9,7,CRM Tool
+Bachelor's Degree,Data Scientist,8,5,9,8,0,2,1,2,3,Data Analytics Tool
+Certification,Marketer,3,0,6,4,5,0,4,9,2,Data Analytics Tool
+Associate Degree,Unemployed,1,7,4,2,3,5,9,0,4,Food Delivery App
+Bachelor's Degree,Teacher,10,10,9,4,3,9,9,10,6,Cloud Storage
+Professional Training,Physician,8,3,4,2,0,6,0,8,1,Streaming Service
+High School,Sales Agent,1,0,6,2,4,6,1,5,6,Finance & Accounting Software
+Trade School,Engineer,9,4,0,0,7,6,2,3,2,Project Management Tool
+MBA,Software Engineer,6,9,0,7,5,1,1,8,0,Cloud Storage
+Master's Degree,Engineer,1,6,9,0,10,4,3,0,2,Mobile App
+High School,Mechanic,7,2,5,0,0,2,5,1,5,E-learning Tool
+Bachelor's Degree,Product Manager,7,6,0,6,9,2,3,1,5,SaaS Platform
+Graduate Diploma,Accountant,1,9,3,2,2,3,1,1,10,E-commerce
+Vocational Training,IT Consultant,9,4,2,5,5,5,5,9,0,Gaming Platform
+PhD,Scientist,0,5,10,0,5,1,6,0,2,Real Estate Software
+Vocational Training,Investment Banker,2,8,7,3,3,0,9,5,0,IoT Platform
+MBA,Customer Support,2,4,1,0,2,4,8,5,10,Artificial Intelligence Tool
+MBA,Business Analyst,0,2,6,5,5,5,4,1,3,Artificial Intelligence Tool
+MBA,Engineer,7,10,9,0,9,1,4,2,3,Travel App
+Bachelor's Degree,Software Engineer,10,10,5,10,6,6,2,7,4,Artificial Intelligence Tool
+PhD,Researcher,5,6,2,0,1,5,0,9,7,Collaboration Tool
+MBA,University Professor,4,3,5,5,5,3,9,0,6,Educational Platform
+High School,Gardener,0,3,3,2,2,3,7,1,8,Project Management Tool
+Graduate Diploma,Event Planner,6,9,4,4,3,4,9,10,8,Augmented Reality App
+Graduate Diploma,Accountant,2,5,3,5,6,4,1,3,7,SaaS Platform
+Professional Training,Software Engineer,0,6,4,7,6,5,1,4,0,Cloud Storage
+Vocational Training,Social Worker,4,10,10,2,5,4,9,4,5,Streaming Service
+Postdoctoral Studies,Event Planner,9,2,2,0,3,4,1,2,1,Productivity Tool
+Bachelor's Degree,Architect,0,8,5,5,0,0,7,8,6,Food Delivery App
+Vocational Training,Financial Analyst,6,4,5,5,6,3,1,2,2,Mobile App
+Professional Training,Tourism Manager,0,1,4,3,5,3,9,5,4,Finance & Accounting Software
+PhD,Engineer,0,0,9,2,10,4,3,1,6,CRM Tool
+Trade School,Marketer,6,8,2,0,3,3,9,6,5,Data Analytics Tool
+Vocational Training,Realtor,0,7,4,3,1,2,6,0,4,E-learning Tool
+Certification,Social Worker,7,8,1,4,1,1,0,8,2,Data Analytics Tool
+Master's Degree,Engineer,0,4,1,4,7,6,8,7,0,Learning Management System
+Bachelor's Degree,Data Scientist,10,7,2,9,0,0,8,8,4,Artificial Intelligence Tool
+Associate's Degree,UX/UI Designer,8,3,2,3,1,2,2,3,1,Mobile App
+Professional Training,Product Manager,4,8,9,1,8,5,0,10,3,Design Software
+Self-Taught,Accountant,9,9,8,3,3,4,1,5,0,Data Analytics Tool
+Associate Degree,Financial Analyst,2,9,0,5,1,3,8,10,7,Marketing Automation Tool
+No Formal Education,Sales Agent,10,8,3,2,3,3,3,3,8,Video Editing Software
+Certification,Data Scientist,2,9,8,10,6,6,7,4,6,Business Intelligence Software
+Master's Degree,Lawyer,10,10,4,0,2,1,3,2,1,Enterprise Software
+Doctoral Degree,Tech CEO,3,1,0,4,7,6,4,7,0,Enterprise Software
+MBA,Waiter,5,6,1,5,3,2,7,1,6,Streaming Service
+Postdoctoral Studies,Business Analyst,9,5,4,0,5,6,8,7,8,Music Production Software
+MBA,Dentist,2,6,4,6,5,3,5,9,10,Design Software
+Associate Degree,Physician,1,1,7,6,1,5,7,3,9,SaaS Platform
+High School,Sales Agent,2,6,7,4,1,2,4,10,8,Photo Editing Software
+Trade School,Event Planner,5,0,1,4,1,4,10,4,2,Customer Feedback Tool
+Professional Training,Product Manager,7,10,3,4,7,6,1,9,1,Cybersecurity Tool
+Bachelor's Degree,Teacher,8,5,10,0,1,7,10,7,0,Streaming Service
+Associate Degree,Construction Manager,7,10,7,0,1,5,8,2,2,Remote Work Tool
+Postdoctoral Studies,Customer Support,1,0,7,6,4,3,2,6,4,E-commerce
+Master's Degree,University Professor,0,3,6,1,2,5,6,7,10,E-learning Tool
+Self-Taught,Investment Banker,9,9,8,3,1,2,10,7,5,Personal Finance Tool
+Doctoral Degree,Customer Support,7,9,8,4,5,3,7,0,8,Business Intelligence Software
+Professional Training,Editor,0,2,9,6,3,6,3,2,0,Augmented Reality App
+Professional Training,Chef,5,4,6,0,3,1,3,1,7,IoT Platform
+Graduate Diploma,Graphic Designer,2,2,1,4,6,0,4,3,0,Web Application
+MBA,University Professor,8,5,10,4,6,4,1,0,6,E-learning Tool
+Associate Degree,Business Analyst,3,2,7,1,3,3,7,6,1,Music Production Software
+Graduate Diploma,Physician,6,5,3,1,0,4,10,6,7,Educational Platform
+Certification,Photographer,1,8,3,0,2,4,1,2,1,Customer Feedback Tool
+Postdoctoral Studies,Accountant,7,4,7,0,6,6,9,8,10,Photo Editing Software
+Vocational Training,Marketer,9,6,3,6,0,3,2,5,4,Learning Management System
+Trade School,Copywriter,10,3,3,2,1,4,3,4,2,Cloud Storage
+Associate's Degree,Customer Support,3,1,1,1,6,1,9,1,9,Streaming Service
+Certification,Engineer,0,6,1,0,10,3,5,3,4,Streaming Service
+Professional Training,Dentist,5,5,2,3,0,0,1,1,0,Design Software
+PhD,Researcher,5,2,4,3,3,6,8,9,5,Gaming Platform
+Associate Degree,Customer Support,1,6,6,6,6,0,8,1,2,Finance & Accounting Software
+Vocational Training,Investment Banker,4,1,4,4,2,1,6,2,7,Streaming Service
+PhD,Engineer,4,5,2,6,7,4,8,3,7,Web Application
+Bachelor's Degree,Teacher,8,10,2,2,1,9,9,9,9,CRM Tool
+Vocational Training,Customer Support,2,5,10,2,2,6,2,0,10,Survey Platform
+MBA,Physician,4,4,9,4,0,6,1,1,5,Photo Editing Software
+Vocational Training,Nurse,1,2,8,5,1,4,3,10,8,Travel App
+Certification,Construction Manager,4,7,1,6,5,1,5,0,6,Communication Tool
+Associate Degree,IT Consultant,9,4,10,2,1,3,8,0,7,Travel App
+Certification,Social Worker,2,0,10,6,5,6,3,9,3,Enterprise Software
+Vocational Training,Construction Manager,2,0,1,0,5,5,3,6,6,Virtual Reality Tool
+Associate Degree,Freelance Designer,2,5,4,4,1,9,9,0,0,Photo Editing Software
+Vocational Training,Accountant,4,5,1,5,3,3,1,1,0,Customer Feedback Tool
+Professional Training,Product Manager,2,5,5,1,8,4,10,7,7,Remote Work Tool
+Trade School,Gardener,7,9,7,2,4,3,3,0,4,Gaming Platform
+Graduate Diploma,Nurse,2,1,8,3,4,6,9,4,10,Food Delivery App
+Associate Degree,Lawyer,1,8,0,2,5,6,7,9,6,Travel App
+High School,Mechanic,0,6,0,4,4,6,6,4,9,Gaming Platform
+Trade School,Software Engineer,7,6,4,9,3,4,1,0,5,Cloud Storage
+Professional Training,Unemployed,2,4,7,6,1,4,0,0,8,Real Estate Software
+MBA,Physician,6,1,9,3,0,2,7,5,9,Music Production Software
+Associate Degree,Waiter,5,3,3,2,2,1,6,8,10,Collaboration Tool
+High School,Electrician,2,7,3,3,5,6,6,6,8,Mobile App
+Doctoral Degree,Construction Manager,7,7,4,0,1,5,6,4,6,CRM Tool
+Professional Training,Lawyer,8,7,8,0,5,0,5,1,10,Data Analytics Tool
+No Formal Education,Gardener,7,8,10,1,6,3,6,10,7,Cybersecurity Tool
+Associate's Degree,Photographer,1,7,4,0,1,1,8,6,0,E-learning Tool
+Associate's Degree,Customer Support,1,0,7,6,6,5,4,9,5,Photo Editing Software
+Graduate Diploma,Web Developer,7,3,8,7,1,0,7,0,8,Productivity Tool
+High School,Electrician,9,10,4,3,1,5,2,10,7,Travel App
+No Formal Education,Waiter,6,9,10,2,5,0,9,3,1,Cloud Storage
+PhD,University Professor,3,6,4,0,0,3,8,3,10,CRM Tool
+Professional Training,Dentist,8,7,7,6,1,3,7,3,8,Video Editing Software
+High School,Sales Agent,0,8,1,3,0,6,9,7,1,IoT Platform
+High School,Retail Worker,0,1,10,5,1,6,0,8,8,Mobile App
+PhD,Scientist,0,0,4,6,2,4,10,5,0,Web Application
+Graduate Diploma,Sales Agent,2,5,7,3,4,2,0,2,1,Data Analytics Tool
+Postdoctoral Studies,IT Consultant,6,4,8,1,3,5,1,10,3,Health & Fitness App
+Doctoral Degree,Mechanic,1,0,2,4,4,6,10,9,4,Collaboration Tool
+Vocational Training,Architect,7,6,6,3,0,3,2,1,7,Personal Finance Tool
+Bachelor's Degree,Designer,9,0,8,1,4,2,3,2,5,Educational Platform
+Professional Training,Copywriter,8,0,0,3,4,4,2,9,6,Communication Tool
+High School,Retail Worker,4,6,4,3,6,1,3,4,7,E-commerce
+Bachelor's Degree,Architect,6,6,0,0,2,2,2,4,7,E-commerce
+Graduate Diploma,Chef,10,2,2,5,6,4,8,1,1,Educational Platform
+Postdoctoral Studies,Financial Analyst,0,5,1,6,5,5,3,4,0,CRM Tool
+Master's Degree,Engineer,7,4,10,4,9,4,8,1,9,IoT Platform
+Trade School,Construction Worker,7,1,7,5,2,6,3,1,4,Communication Tool
+Trade School,IT Consultant,10,7,2,2,1,6,9,3,10,SaaS Platform
+Doctoral Degree,Waiter,5,2,4,1,4,5,2,3,3,Health & Fitness App
+Doctoral Degree,Realtor,2,6,8,0,0,4,3,8,7,Finance & Accounting Software
+Graduate Diploma,Nurse,7,9,4,1,0,3,1,7,7,Photo Editing Software
